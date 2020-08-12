@@ -9,7 +9,7 @@
       </div>
     </c:if>
     <h2>日報 一覧</h2>
-    <table>
+    <table id="report_list">
       <tbody>
         <tr>
           <th class="report_name">氏名</th>
